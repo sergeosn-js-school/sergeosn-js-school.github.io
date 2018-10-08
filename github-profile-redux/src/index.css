@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+.user-list-preview {
+    width: 550px;
+    margin-bottom: 20px;
+}
+
+.user-list-preview--img {
+    display: block;
+    width: 200px;
+    float: left;
+}
+
+.user-list-preview--user_info {
+    float: left;
+    margin-left: 20px;
+}
+
+.user-profile-preview--img {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.user-profile-preview--statistic {
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.error {
+    height: 390px;
+}
+
+.error img {
+    display: block;
+    float: left;
+}
+
+.error span {
+    display: block;
+    float: left;
+    font-weight: bold;
+    margin: 140px 0 0 40px;
+    height: 380px;
+    width: 400px;
+}
